@@ -21,7 +21,7 @@
 title: Lech Kula's homepage
 email: lech.kula@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Testing testing
+  This website is a collection of projects, both personal and made during my time at Chalmers University of Technology. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lechkula.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  LechKula
