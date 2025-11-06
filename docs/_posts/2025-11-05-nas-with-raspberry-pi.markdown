@@ -15,4 +15,10 @@ I dual boot Ubuntu (Linux) and Microsoft Windows. When I started at Chalmers, I 
 I followed the guide at [How to build a Raspberry Pi NAS](https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/ "NAS box Raspberry Pi tutorial"). Following the guide was quite straight forward, even though some unforseen struggles apeared. A stupid problem I had was that I did not have a monitor to connect the Raspberry Pi to for initial set-up. After borrowing a monitor and setting up remote access with TigerVNC I was good to go and follow the guide. Another problem that appeared was that the Kingston SSD automatically mounted under /media. But unmouting is as simple as 
 {% highlight bash %}
 umount sda1
-{% endhighlight %} after which the drive could be formatted and mounted in accordance with the guide. I now have a NAS with which I can share files between my Linux and Windows systems, and I can even access the files on my smart phone! 
+{% endhighlight %} after which the drive could be formatted and mounted in accordance with the guide. I now have a NAS with which I can share files between my Linux and Windows systems. Here is a screenshot from my Ubuntu system, with a 'Hi!' to my Windows system 
+![hi from ubuntu](/assets/hi_from_ubuntu.png) 
+
+and the same files on my Windows system, with a 'Hi!' back to the Ubuntu system!
+![hi from windows](/assets/hi_from_windows_screenshot.png) 
+ and I can even access the files on my smart phone! 
+![hi from iphone](/assets/hi_from_iphone.jpeg) 
