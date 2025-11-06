@@ -10,7 +10,4 @@ A simple explanation for this is that if the state of charge is high, there are 
 ![charging curve 150 kW](/assets/charging_curve_150_kw.png)
 From the curve, the behaviour I discussed can be seen. The highest power supplied is a bit before 10%, with it being close to 150 kW during the range 10% -- 30%.
 
-With a charging curve as the one above, calculating the charging time is possible. 
-```math
-\displaystyle\sum_{k=3}^5 k^2=3^2 + 4^2 + 5^2 =50
-```
+With a charging curve as the one above, calculating the charging time is possible. <span>$x^3$</span>
