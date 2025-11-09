@@ -20,5 +20,5 @@ umount sda1
 
 and the same files on my Windows system, with a 'Hi!' back to the Ubuntu system!
 ![hi from windows](/assets/hi_from_windows_screenshot.png) 
- and I can even access the files on my smart phone! 
+I can even access the files on my smart phone! 
 ![hi from iphone](/assets/hi_from_iphone.jpeg) 
